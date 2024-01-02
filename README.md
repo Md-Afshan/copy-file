@@ -17,7 +17,7 @@ Now open the text file in read mode.
 ### Step 4:
 Then read the content in the file and store the data in a variable.
 
-## Step 5:
+### Step 5:
 Now open the new uncreated or an empty file using a different file object, by "w+" mode and write the content derived from first file using write().
 
 ### Step 6:
